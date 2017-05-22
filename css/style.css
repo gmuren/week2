@@ -2,6 +2,7 @@
 * {
   margin: 0;
   padding: 0;
+  font-family: 'Open Sans', sans-serif;
 }
 
 header {
@@ -9,3 +10,151 @@ header {
   background: url("../images/header_bg.jpg") no-repeat center top;
   background-size: cover;
 }
+
+div.relaxr {
+	padding-top: 3%;
+	padding-left: 7%;
+	color: white;
+	font-weight: 900;
+	font-size: 24px;
+	margin-bottom: 160px;
+}
+
+div.piece {
+	font-size: 24px;
+	font-weight: 200;
+	text-align: center;
+	color: white;
+	margin-bottom: 40px;
+}
+
+a {
+	text-decoration: none;
+}
+
+span a.getit {
+	color: black;
+	font-size: 14px;
+	font-weight: 900;
+	display:block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 69px;
+	padding-top: 5px;
+	padding-right: 20px;
+	padding-left: 20px;
+	padding-bottom: 5px;
+	background-color: #f9e42e;
+	border-radius: 5px;
+}
+
+div.benefits {
+	background-color: #f0efef;
+	padding-bottom: 30px;
+}
+
+h1.benefits {
+	font-weight: 600;
+	font-size: 20px;
+	margin-left: 7%;
+	margin-bottom: 15px;
+	padding-top: 30px;
+}
+
+p.benefits, ul.benefits {
+	color: #606161;
+}
+
+p.benefits {
+	margin-left: 7%;
+	font-weight: 200;
+	font-size: 13px;
+}
+
+ul.benefits {
+	margin-left: 13%;
+	margin-top: 20px;
+	font-weight: 200;
+	font-size: 13px;
+}
+
+div.testim {
+  height: 100px;
+  background: url("../images/testimonial_bg.jpg") no-repeat center top;
+  background-size: cover;
+  color: #606161;
+  text-align: center;
+  padding-left: 29%;
+  padding-right: 29%;
+  padding-top: 10%;
+  padding-bottom: 10%;
+  word-break: break-all;
+}
+
+p.testim {
+	font-style: italic;
+}
+
+p.amanda {
+	color: white;	
+}
+
+div.signyellow {
+	padding-top: 10px;
+	padding-bottom: 10px;
+
+}
+
+div.signyellow {
+	background-color: #f9e42e;
+}
+
+span a.signup {
+	color: white;
+	font-size: 12px;
+	font-weight: 700;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 75px;
+	padding-top: 5px;
+	padding-right: 20px;
+	padding-left: 20px;
+	padding-bottom: 5px;
+	background-color: #033048;
+	border-radius: 5px;
+}
+
+footer {
+	background-color: #121212;
+	text-align: center;
+}
+
+p.footer {
+	text-align: center;
+	color: #f9e42e;
+	font-weight: 900;
+	font-size: 24px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+span a.twitterfooter {
+	margin-right: 10px;
+	padding-right: 10px;
+}
+
+span a.facefooter {
+	margin-left: 10px;
+	padding-left: 10px;
+}
+
+p.copyright {
+	color: #606161;
+	font-size: 9px;
+	font-weight: 700;
+	margin-top: 30px;
+	padding-bottom: 30px;
+}
+
+
